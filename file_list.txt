@@ -1,0 +1,2 @@
+total 0
+-rw-r--r-- 1 Максим 197121 0 Apr  9 13:58 file_list.txt
